@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hola mecmecmecmec adioas fichero2 adios
+=======
+hola mecmecmecmec adioas fichero2 adios
+mecmecmec mateo mecmecmec
+Hola cuecmcuecmcuecmcuecm adios fichero2 adios
+>>>>>>> e5383032b17af165251ebee7ca3eaa5b61bcd603
